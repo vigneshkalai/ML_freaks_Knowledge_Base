@@ -1,6 +1,7 @@
 This is where the assigment files should be added
 
 Structure:
+
 '''
   Classes
     |
